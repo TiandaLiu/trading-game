@@ -1,5 +1,16 @@
 # Trading Game
 
+## Overview
+<div align="center">
+  <img src="images/web_view.png" height="385px" align="top" alt="图片说明" >
+  <img src="images/phone_view.png" height="385px" align="top" alt="图片说明" >
+</div>
+
+## Requirments
+
+    Node.js v12.16.1
+    React v16.13.1
+
 ## To Start the Project
 In the project directory, you can run:
 
@@ -19,14 +30,4 @@ Type symbol and shares of stock into Trading Panel, then click "Sell" button
 ## Sort Portfolio
 
 You can sort the portfolio by clicking the head of the table (Name, Symbol, Price, etc.)
-
-## Requirments
-
-    Node.js 12.16.1
-
-## Overview
-<div align="center">
-  <img src="images/web_view.png" height="385px" align="top" alt="图片说明" >
-  <img src="images/phone_view.png" height="385px" align="top" alt="图片说明" >
-</div>
 
